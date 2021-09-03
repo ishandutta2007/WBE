@@ -13,6 +13,6 @@
 | Distribution of complexes |--|--|2063| 2063 |
 | Stochastic behavior of single molecules |--|--|2111| 2111 |
 
-- [1 mouse SNN at $100K in 2015](https://www.youtube.com/watch?v=2e06C-yUwlc)
+- [1 mouse SNN at $100K in 2015 by University of Manchester's SpiNNaker Project](https://www.youtube.com/watch?v=2e06C-yUwlc)
 
 -  Dates in bold are what already been achieved and other estimates are from [a paper by Future of Humanity Institute](https://www.fhi.ox.ac.uk/brain-emulation-roadmap-report.pdf)
