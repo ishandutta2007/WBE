@@ -18,3 +18,5 @@
 - [Fluitfly detailed connectome to Electrophysiology level by Google+Jnelia Institute in 2019](https://www.youtube.com/watch?v=PeyHKdmBpqY)
 
 -  Dates in bold are what has already been achieved and other estimates are from [a paper by Future of Humanity Institute](https://www.fhi.ox.ac.uk/brain-emulation-roadmap-report.pdf)
+
+- Mouse WBE [Cost Estimation](https://www.biorxiv.org/content/10.1101/001214v3.full) as of 2013
