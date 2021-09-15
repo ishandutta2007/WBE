@@ -20,3 +20,6 @@
 -  Dates in bold are what has already been achieved and other estimates are from [a paper by Future of Humanity Institute](https://www.fhi.ox.ac.uk/brain-emulation-roadmap-report.pdf)
 
 - Mouse WBE [Cost Estimation](https://www.biorxiv.org/content/10.1101/001214v3.full) as of 2013
+-- Diamond Knife cost : 20^3/(1 cm^2 × 25 nm) = 168000 sections. 10K sections before replacing knife.
+                      : ie 170 Knifes of $2500 each. Total cost = $2500*170 = $425K
+                      
