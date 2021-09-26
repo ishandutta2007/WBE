@@ -1,9 +1,9 @@
 
 
-## Level	CPU demand at $1M:
+## Connectome and CPU growth:
 
 
-| AI       | FruitFly           | Mouse  | Monkey | Human  | AI
+| AI       | FruitFly           | Mouse  | Monkey | Human  | AI(CPU demand at $1M)
 | ------------- |:---------------------------:| -----:|  -----:| ------:|------:|
 | Just neurons(micron scale)|--|--| **2021(China)** | -- | -- |
 | Spiking neural network|--|**2010**| -- | -- | 2023 |
