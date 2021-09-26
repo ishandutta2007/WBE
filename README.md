@@ -5,7 +5,7 @@
 
 | AI       | FruitFly           | Mouse  | Monkey | Human  | AI
 | ------------- |:---------------------------:| -----:|  -----:| ------:|------:|
-| Just neurons(micros scale)|--|--| **2021**(China) | -- | -- |
+| Just neurons(micron scale)|--|--| **2021**(China) | -- | -- |
 | Spiking neural network|--|**2010**| -- | -- | 2023 |
 | Electrophysiology(nano scale)|**2019(Janelia)**|**2015**|--| --| 2033 |
 | Metabolome |--|2025|--| --| 2044 |
