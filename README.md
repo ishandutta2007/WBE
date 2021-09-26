@@ -23,3 +23,4 @@
   - Diamond Knife cost : 20^3/(1 cm^2 × 25 nm) = 168000 sections. 10K sections before replacing knife.
                       : ie 170 Knifes of $2500 each. Total cost = $2500*170 = $425K
                       
+- Monkey WBE micon scale in 2021 by [China Brain Project](https://www.freepressjournal.in/science/worlds-first-3d-image-of-monkey-brain-developed)
