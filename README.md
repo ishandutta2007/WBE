@@ -25,3 +25,7 @@
                       : ie 170 Knifes of $2500 each. Total cost = $2500*170 = $425K
                       
 - Monkey WBE micon scale in 2021 by [China Brain Project](https://www.freepressjournal.in/science/worlds-first-3d-image-of-monkey-brain-developed)
+
+
+My Timeline analysis:
+https://docs.google.com/spreadsheets/d/16Iz_z22qOi-aBoescF-lGtphoCLLspVz3CQvQ17m400/edit#gid=0
