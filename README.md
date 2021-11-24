@@ -7,9 +7,9 @@
 | ------------- |:----------- |:---------------------------:| -----:|  -----:| ------:|
 | Just neurons(micron scale)|--|--|--| **2021(China)** | -- | 
 | Spiking neural network|--|--|--| -- | -- |
-| Electrophysiology(nano scale)|**2008(Janelia,US)**|**2019(Janelia,US)**|--|--| --|
-| Metabolome |--|--|--|--| --|
-| Proteome |--|--|--|--| --|
+| Electrophysiology(10 nm scale)|**2008(Janelia,US)**|**2019(Janelia,US)**|--|--| --|
+| Metabolome(1 nm scale) |--|--|--|--| --|
+| Proteome(1A scale) |--|--|--|--| --|
 | States of protein complexes |--|--|--|--| --|
 | Distribution of complexes |--|--|--|--| --|
 | Stochastic behavior of single molecules |--|--|--|--| --|
