@@ -36,3 +36,4 @@ https://docs.google.com/spreadsheets/d/16Iz_z22qOi-aBoescF-lGtphoCLLspVz3CQvQ17m
 
 
 By this table we can see by **2040** the cost would be somewhere between **$101.005M and $401.2M**, and by **2050** the cost would be somewhere between **$2M and $52M**
+It is also to be noted that EM improvements may follow Wrights Law in long term instead of Moores Law. This analysis shows uses only Moores law as in recent past it is moving at par with moores law if not faster. But beyond 2040 if it slows down the 2050 estimates might get pushed to 2060.
