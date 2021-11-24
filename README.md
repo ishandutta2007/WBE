@@ -1,13 +1,27 @@
 
 
-## Connectome and CPU growth:
+## Connectome(Scanning+Storage):
+
+
+| AI       | C. Elegans | FruitFly           | Mouse  | Monkey | Human 
+| ------------- |:----------- |:---------------------------:| -----:|  -----:| ------:|
+| Just neurons(micron scale)|--|--|--| **2021(China)** | -- | 
+| Spiking neural network|--|--|--| -- | -- |
+| Electrophysiology(nano scale)|**2008(Janelia,US)**|**2019(Janelia,US)**|--|--| --|
+| Metabolome |--|--|--|--| --|
+| Proteome |--|--|--|--| --|
+| States of protein complexes |--|--|--|--| --|
+| Distribution of complexes |--|--|--|--| --|
+| Stochastic behavior of single molecules |--|--|--|--| --|
+
+## Simulation(Compute):
 
 
 | AI       | C. Elegans | FruitFly           | Mouse  | Monkey | Human  | AI(CPU at $1M)
 | ------------- |:----------- |:---------------------------:| -----:|  -----:| ------:|------:|
-| Just neurons(micron scale)|--|--|**2015(Spinnaker,UK)**| **2021(China)** | -- | -- |
+| Just neurons(micron scale)|--|--|**2015(Spinnaker,UK)**| -- | -- | -- |
 | Spiking neural network|--|--|--| -- | -- | 2023 |
-| Electrophysiology(nano scale)|**2008(Janelia,US)**|**2019(Janelia,US)**|--|--| --| 2033 |
+| Electrophysiology(nano scale)|--|--|--|--| --| 2033 |
 | Metabolome |--|--|--|--| --| 2044 |
 | Proteome |--|--|--|--| --| 2048 |
 | States of protein complexes |--|--|--|--| --| 2052 |
