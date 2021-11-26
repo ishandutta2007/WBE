@@ -19,7 +19,6 @@
 | AI       | C. Elegans | FruitFly           | Mouse  | Monkey | Human 
 | ------------- |:----------- |:---------------------------:| -----:|  -----:| ------:|
 | Just neurons(micron scale)|--|--|--| **2021(China)** | -- | 
-| Spiking neural network|--|--|--| -- | -- |
 | Electrophysiology(10 nm scale)|**2008(Janelia,US)**|**2019(Janelia,US)**|--|--| --|
 | Metabolome(1 nm scale) |--|--|--|--| --|
 | Proteome(1A scale) |--|--|--|--| --|
@@ -32,8 +31,7 @@
 
 | AI       | C. Elegans | FruitFly           | Mouse  | Monkey | Human  | AI(CPU at $1M)
 | ------------- |:----------- |:---------------------------:| -----:|  -----:| ------:|------:|
-| Just neurons(micron scale)|--|--|**2015(Spinnaker,UK)**| -- | -- | -- |
-| Spiking neural network|--|--|--| -- | **2021(Tesla Dojo)** | 2023 |
+| Spiking neural network(Just neurons)|--|--|**2015(Spinnaker,UK)**| -- | **2021(Tesla Dojo)** | 2023 |
 | Electrophysiology(nano scale)|--|--|--|--| --| 2033 |
 | Metabolome |--|--|--|--| --| 2044 |
 | Proteome |--|--|--|--| --| 2048 |
