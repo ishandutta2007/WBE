@@ -51,3 +51,6 @@ https://docs.google.com/spreadsheets/d/16Iz_z22qOi-aBoescF-lGtphoCLLspVz3CQvQ17m
 
 By this table we can see by **2040** the cost would be somewhere between **$101.005M and $401.2M**, and by **2050** the cost would be somewhere between **$2M and $52M**.
 It is also to be noted that SEM improvements may follow Wrights Law in long term instead of Moores Law. This analysis uses original Moores law for SEM as in recent past SEM improvements are moving at par with original moores law if not faster. But beyond 2040 if it slows down the 2050 estimates might get pushed to 2060.
+
+![plot_estimstes](https://user-images.githubusercontent.com/2527354/143514623-84679f84-6194-416a-8dac-706b29e1a0d7.png)
+
