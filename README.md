@@ -43,11 +43,43 @@
 
 ## My Timeline analysis:
 
-https://docs.google.com/spreadsheets/d/16Iz_z22qOi-aBoescF-lGtphoCLLspVz3CQvQ17m400/edit#gid=0
-
-![WBE_Timeline](https://user-images.githubusercontent.com/2527354/143158380-90870a5b-c8b3-49db-9d17-226a8e9a7187.png)
 
 
+### EARLIER MOORES LAW (18 months doubling) WITH IMAGE COMPRESSION(most optimistic case)
+|   |2020 |    |2030 |   | 2040 |  | 2050 
+| ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
+| Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M | Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) | $1M |
+| Storage(1ZB)(raw) |$30B |Storage(1EB) (compressed)|$300K |Storage(1EB) (compressed)|$3K |Storage(1EB) (compressed)|$30 |
+| Compute(20 teraflops) |$20M |Compute(20 teraflops) |$200K |Compute(20 teraflops) |$2K |Compute(20 teraflops) |$20 |
+| Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
+| Total |$1130.02B |Total |$10.0105B |Total |$101.005M |Total |**$2M**|
+
+### SLOWED DOWN MOORES LAW (36 months doubling) WITH IMAGE COMPRESSION
+|   |2020 |    |2030 |   | 2040 |  | 2050 
+| ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
+| Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M | Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
+| Storage(1ZB)(raw) |$30B |Storage(1EB) (compressed) |$3M |Storage(1EB) (compressed)| $300K | Storage(1EB) (compressed)|$30K |
+| Compute(20 teraflops) |$20M |Compute(20 teraflops) |$2M |Compute(20 teraflops) |$200K |Compute(20 teraflops) |$20K |
+| Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
+| Total |$1130.02B |Total |$10.015B |Total |$101.5M |Total |$2.05M |
+
+### EARLIER MOORES LAW(18 months doubling)
+|   |2020 |    |2030 |   | 2040 |  | 2050 
+| ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
+| Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
+| Storage(1ZB)(raw) |$30B |Storage(1ZB) |$300M |Storage(1ZB) |$3M |Storage(1ZB) |$30K |
+| Compute(20 teraflops) |$20M |Compute(20 teraflops) |$200K |Compute(20 teraflops) |$2K |Compute(20 teraflops) |$20 |
+| Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
+| Total |$1130.02B |Total |$10.3102B |Total |$104.002M |Total |$2.03M |
+
+### SLOWED DOWN MOORES LAW(36 months doubling)(most pessimistic case)
+|   |2020 |    |2030 |   | 2040 |  | 2050 
+| ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
+| Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
+| Storage(1ZB)(raw) |$30B |Storage(1ZB) |$3B |Storage(1ZB) |$300M |Storage(1ZB) |$30M |
+| Compute(20 teraflops) |$20M |Compute(20 teraflops) |$2M |Compute(20 teraflops) |$200K |Compute(20 teraflops) |$20K |
+| Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
+| Total |$1130.02B |Total |$13.012B |Total |$401.2M |Total |**$52M** |
 
 
 By this table we can see by **2040** the cost would be somewhere between **$101.005M and $401.2M**, and by **2050** the cost would be somewhere between **$2M and $52M**.
