@@ -45,7 +45,7 @@
 
 
 
-### EARLIER MOORES LAW (18 months doubling) WITH IMAGE COMPRESSION(most optimistic case)
+### ORIGINAL MOORES LAW (18 months doubling) WITH IMAGE COMPRESSION(most optimistic case)
 |   |2020 |    |2030 |   | 2040 |  | 2050 
 | ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
 | Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) | $1M |
@@ -67,7 +67,7 @@
 | Sales & Marketing |  |Sales & Marketing | |Sales & Marketing |0 |Sales & Marketing |$10K |
 | Total |$1130.02B |Total |$10.015B |Total |$111.5M |Total |$2.16M |
 
-### EARLIER MOORES LAW(18 months doubling)
+### ORIGINAL MOORES LAW(18 months doubling)
 |   |2020 |    |2030 |   | 2040 |  | 2050 
 | ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
 | Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
