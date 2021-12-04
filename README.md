@@ -11,13 +11,13 @@
   - Diamond Knife cost : 20^3/(1 cm^2 × 25 nm) = 168000 sections. 10K sections before replacing knife.
                       : ie 170 Knifes of $2500 each. Total cost = $2500*170 = $425K
                       
-- Monkey WBE micron scale in 2021 by [China Brain Project](https://www.freepressjournal.in/science/worlds-first-3d-image-of-monkey-brain-developed)
+- Monkey (rhesus) WBE micron scale in 2021 by [China Brain Project](https://www.freepressjournal.in/science/worlds-first-3d-image-of-monkey-brain-developed)
 
 
 ## Connectome(Scanning+Storage):
 
 
-| AI       | C. Elegans | FruitFly           | Mouse  | Monkey | Human 
+| AI       | C. Elegans | FruitFly           | Mouse  | Monkey (rhesus) | Human 
 | ------------- |:----------- |:---------------------------:| -----:|  -----:| ------:|
 | Neurons(micron scale)|--|--|--| **2021(China)** | -- | 
 | Electrophysiology(10 nm scale)|**2008(Janelia,US)**|**2019(Janelia,US)**|--|--| --|
@@ -30,7 +30,7 @@
 ## Simulation(Compute):
 
 
-| AI       | C. Elegans | FruitFly           | Mouse  | Monkey | Human  | AI(CPU at $1M)
+| AI       | C. Elegans | FruitFly           | Mouse  | Monkey (rhesus) | Human  | AI(CPU at $1M)
 | ------------- |:----------- |:---------------------------:| -----:|  -----:| ------:|------:|
 | Spiking neural network(Just neurons)|--|--|**2015(Spinnaker,UK)**| -- | **2021(Tesla Dojo)** | 2023 |
 | Electrophysiology(nano scale)|--|--|--|--| --| 2033 |
