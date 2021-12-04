@@ -41,7 +41,7 @@
 | Stochastic behavior of single molecules |--|--|--|--| --| 2111 |
 
 
-## My Timeline analysis:
+## Unit Economics with Timeline analysis:
 
 
 
@@ -52,7 +52,9 @@
 | Storage(1ZB)(raw) |$30B |Storage(1EB) (compressed)|$300K |Storage(1EB) (compressed)|$3K |Storage(1EB) (compressed)|$30 |
 | Compute(20 teraflops) |$20M |Compute(20 teraflops) |$200K |Compute(20 teraflops) |$2K |Compute(20 teraflops) |$20 |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
-| Total |$1130.02B |Total |$10.0105B |Total |$101.005M |Total |**$2M**|
+| R&D |  |R&D | |R&D |$10M |R&D |$100K |
+| Sales & Marketing |  |Sales & Marketing | |Sales & Marketing |0 |Sales & Marketing |$10K |
+| Total |$1130.02B |Total |$10.0105B |Total |$111.005M |Total |**$2.11M**|
 
 ### SLOWED DOWN MOORES LAW (36 months doubling) WITH IMAGE COMPRESSION
 |   |2020 |    |2030 |   | 2040 |  | 2050 
@@ -61,7 +63,9 @@
 | Storage(1ZB)(raw) |$30B |Storage(1EB) (compressed) |$3M |Storage(1EB) (compressed)| $300K | Storage(1EB) (compressed)|$30K |
 | Compute(20 teraflops) |$20M |Compute(20 teraflops) |$2M |Compute(20 teraflops) |$200K |Compute(20 teraflops) |$20K |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
-| Total |$1130.02B |Total |$10.015B |Total |$101.5M |Total |$2.05M |
+| R&D |  |R&D | |R&D |$10M |R&D |$100K |
+| Sales & Marketing |  |Sales & Marketing | |Sales & Marketing |0 |Sales & Marketing |$10K |
+| Total |$1130.02B |Total |$10.015B |Total |$111.5M |Total |$2.16M |
 
 ### EARLIER MOORES LAW(18 months doubling)
 |   |2020 |    |2030 |   | 2040 |  | 2050 
@@ -70,7 +74,9 @@
 | Storage(1ZB)(raw) |$30B |Storage(1ZB) |$300M |Storage(1ZB) |$3M |Storage(1ZB) |$30K |
 | Compute(20 teraflops) |$20M |Compute(20 teraflops) |$200K |Compute(20 teraflops) |$2K |Compute(20 teraflops) |$20 |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
-| Total |$1130.02B |Total |$10.3102B |Total |$104.002M |Total |$2.03M |
+| R&D |  |R&D | |R&D |$10M |R&D |$100K |
+| Sales & Marketing |  |Sales & Marketing | |Sales & Marketing |0 |Sales & Marketing |$10K |
+| Total |$1130.02B |Total |$10.3102B |Total |$114.002M |Total |$2.14M |
 
 ### SLOWED DOWN MOORES LAW(36 months doubling)(most pessimistic case)
 |   |2020 |    |2030 |   | 2040 |  | 2050 
@@ -79,10 +85,12 @@
 | Storage(1ZB)(raw) |$30B |Storage(1ZB) |$3B |Storage(1ZB) |$300M |Storage(1ZB) |$30M |
 | Compute(20 teraflops) |$20M |Compute(20 teraflops) |$2M |Compute(20 teraflops) |$200K |Compute(20 teraflops) |$20K |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
-| Total |$1130.02B |Total |$13.012B |Total |$401.2M |Total |**$52M** |
+| R&D |  |R&D | |R&D |$10M |R&D |$100K |
+| Sales & Marketing |  |Sales & Marketing | |Sales & Marketing |0 |Sales & Marketing |$10K |
+| Total |$1130.02B |Total |$13.012B |Total |$411.2M |Total |**$52.11M** |
 
 
-By this table we can see by **2040** the cost would be somewhere between **$101.005M and $401.2M**, and by **2050** the cost would be somewhere between **$2M and $52M**.
+By this table we can see by **2040** the cost would be somewhere between **$111.005M and $411.2M**, and by **2050** the cost would be somewhere between **$2.11M and $52.11M**.
 It is also to be noted that SEM improvements may follow Wrights Law in long term instead of Moores Law. This analysis uses original Moores law for SEM as in recent past SEM improvements are moving at par with original moores law if not faster. But beyond 2040 if it slows down the 2050 estimates might get pushed to 2060.
 
 ![plot_estimstes](https://user-images.githubusercontent.com/2527354/143514623-84679f84-6194-416a-8dac-706b29e1a0d7.png)
