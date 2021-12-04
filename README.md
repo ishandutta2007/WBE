@@ -48,7 +48,7 @@
 ### EARLIER MOORES LAW (18 months doubling) WITH IMAGE COMPRESSION(most optimistic case)
 |   |2020 |    |2030 |   | 2040 |  | 2050 
 | ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
-| Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M | Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) | $1M |
+| Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) | $1M |
 | Storage(1ZB)(raw) |$30B |Storage(1EB) (compressed)|$300K |Storage(1EB) (compressed)|$3K |Storage(1EB) (compressed)|$30 |
 | Compute(20 teraflops) |$20M |Compute(20 teraflops) |$200K |Compute(20 teraflops) |$2K |Compute(20 teraflops) |$20 |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
@@ -59,7 +59,7 @@
 ### SLOWED DOWN MOORES LAW (36 months doubling) WITH IMAGE COMPRESSION
 |   |2020 |    |2030 |   | 2040 |  | 2050 
 | ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
-| Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M | Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
+| Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
 | Storage(1ZB)(raw) |$30B |Storage(1EB) (compressed) |$3M |Storage(1EB) (compressed)| $300K | Storage(1EB) (compressed)|$30K |
 | Compute(20 teraflops) |$20M |Compute(20 teraflops) |$2M |Compute(20 teraflops) |$200K |Compute(20 teraflops) |$20K |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
