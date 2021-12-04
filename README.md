@@ -19,7 +19,7 @@
 
 | AI       | C. Elegans | FruitFly           | Mouse  | Monkey | Human 
 | ------------- |:----------- |:---------------------------:| -----:|  -----:| ------:|
-| Just neurons(micron scale)|--|--|--| **2021(China)** | -- | 
+| Neurons(micron scale)|--|--|--| **2021(China)** | -- | 
 | Electrophysiology(10 nm scale)|**2008(Janelia,US)**|**2019(Janelia,US)**|--|--| --|
 | Metabolome(1 nm scale) |--|--|--|--| --|
 | Proteome(1A scale) |--|--|--|--| --|
