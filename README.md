@@ -90,7 +90,7 @@
 | Total |$1130.02B |Total |$13.012B |Total |$411.2M |Total |**$52.11M** |
 
 
-By this table we can see by **2040** the unit cost would be somewhere between **$111.005M and $411.2M**, and by **2050** the unit cost would be somewhere between **$2.11M and $52.11M**.
+By this table we can see by **2040** the unit cost is estimated to be between **$111.005M and $411.2M**, and by **2050** the unit cost is estimated to be between **$2.11M and $52.11M**.
 It is also to be noted that SEM improvements may follow Wrights Law in long term instead of Moores Law. This analysis uses original Moores law for SEM as in recent past SEM improvements are moving at par with original moores law if not faster. But beyond 2040 if it slows down the 2050 estimates might get pushed to 2060.
 
 ![plot_estimstes](https://user-images.githubusercontent.com/2527354/143514623-84679f84-6194-416a-8dac-706b29e1a0d7.png)
