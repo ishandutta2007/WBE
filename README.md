@@ -89,7 +89,7 @@
 | Sales & Marketing |  |Sales & Marketing | |Sales & Marketing |0 |Sales & Marketing |$10K |
 | Total |$1130.02B |Total |$13.012B |Total |$411.2M |Total |**$52.11M** |
 
-- Assumptions made here is 10nm resultion scannig is good enough for copying memomory.
+- Assumptions made here is 10nm resultion scannig is good enough for copying memory.
 - From the above table we can see by **2040** the unit cost is estimated to be between **$111.005M and $411.2M**, and by **2050** the unit cost is estimated to be between **$2.11M and $52.11M**. 
 - It is also to be noted that SEM improvements may follow Wrights Law in long term instead of Moores Law. This analysis uses original Moores law for SEM in all the above four cases as in recent past SEM improvements have been moving at par with original moores law if not faster. But beyond 2040 if it slows down the 2050 estimates might get pushed to 2060. 
 - As you might have already noticed the dominant cost is the SEM cost. So there are arguments that if some private company takes initiative to accelerate the SEM development then the 2050 projections may even get fast-forwarded to 2040. The reason is  today apart from uses in semiconductor and neuroscience there aren't many uses of multi-beam SEM. In neuroscience since we are currently dealing with fruitfly/mouse there is no initiative to make multi beam SEM scale up faster as in such case storage/compute will fall behind. So multi-beam SEM is progressing in a way such that the three factors remain close to one another. But to move to humans if we have to keep scanning factor of the same order to storage and compute, then it will have to move lot faster than moores/wrights law. 
