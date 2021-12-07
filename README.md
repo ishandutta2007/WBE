@@ -54,7 +54,7 @@
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D |  |R&D | |R&D |$10M |R&D |$100K |
 | Sales & Marketing |  |Sales & Marketing | |Sales & Marketing |0 |Sales & Marketing |$10K |
-| Total |$1030.2B |Total |$10.01B |Total |$111.013M |Total |**$2.11M**|
+| Total |$1140.2B |Total |$120.01B |Total |$111.013M |Total |**$2.11M**|
 
 ### SLOWED DOWN MOORES LAW (36 months doubling) WITH IMAGE COMPRESSION
 |   |2020 |    |2030 |   | 2040 |  | 2050 
@@ -63,9 +63,9 @@
 | Storage(1ZB)(raw) |$30B |Storage(1EB) (compressed) |$3M |Storage(1EB) (compressed)| $300K | Storage(1EB) (compressed)|$30K |
 | Compute(100 teraflops) |$100M |Compute(100 teraflops) |$10M |Compute(100 teraflops) |$1M |Compute(100 teraflops) |$100K |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
-| R&D |  |R&D | |R&D |$10M |R&D |$100K |
+| R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
 | Sales & Marketing |  |Sales & Marketing | |Sales & Marketing |0 |Sales & Marketing |$10K |
-| Total |$1030.2B |Total |$10.01B |Total |$112.3M |Total |$2.24M |
+| Total |$1140.2B |Total |$120.01B |Total |$112.3M |Total |$2.24M |
 
 ### ORIGINAL MOORES LAW(18 months doubling)
 |   |2020 |    |2030 |   | 2040 |  | 2050 
@@ -74,9 +74,9 @@
 | Storage(1ZB)(raw) |$30B |Storage(1ZB) |$300M |Storage(1ZB) |$3M |Storage(1ZB) |$30K |
 | Compute(100 teraflops) |$100M |Compute(100 teraflops) |$1M |Compute(100 teraflops) |$10K |Compute(100 teraflops) |$100 |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
-| R&D |  |R&D | |R&D |$10M |R&D |$100K |
+| R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
 | Sales & Marketing |  |Sales & Marketing | |Sales & Marketing |0 |Sales & Marketing |$10K |
-| Total |$1030.2B |Total |$10.31B |Total |$114.3M |Total |$2.14M |
+| Total |$1140.2B |Total |$120.31B |Total |$114.3M |Total |$2.14M |
 
 ### SLOWED DOWN MOORES LAW(36 months doubling)(most pessimistic case)
 |   |2020 |    |2030 |   | 2040 |  | 2050 
@@ -85,9 +85,9 @@
 | Storage(1ZB)(raw) |$30B |Storage(1ZB) |$3B |Storage(1ZB) |$300M |Storage(1ZB) |$30M |
 | Compute(100 teraflops) |$100M |Compute(100 teraflops) |$10M |Compute(100 teraflops) |$1M |Compute(100 teraflops) |$100K |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
-| R&D |  |R&D | |R&D |$10M |R&D |$100K |
+| R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
 | Sales & Marketing |  |Sales & Marketing | |Sales & Marketing |0 |Sales & Marketing |$10K |
-| Total |$1030.2B |Total |$13.02B |Total |$412M |Total |**$32.21M** |
+| Total |$1140.2B |Total |$123.02B |Total |$412M |Total |**$32.21M** |
 
 - Assumptions made here is 10nm resultion scanning is good enough for copying memory.
 - From the above table we can see by **2040** the unit cost is estimated to be between **$111.01M and $412M**, and by **2050** the unit cost is estimated to be between **$2.11M and $32.21M**. 
