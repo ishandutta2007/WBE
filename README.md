@@ -52,7 +52,7 @@
 | Storage(1ZB)(raw) |$30B |Storage(1EB) (compressed)|$300K |Storage(1EB) (compressed)|$3K |Storage(1EB) (compressed)|$30 |
 | Compute(100 teraflops) |$100M |Compute(100 teraflops) |$1M |Compute(100 teraflops) |$10K |Compute(100 teraflops) |$100 |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
-| R&D |  |R&D | |R&D |$10M |R&D |$100K |
+| R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
 | Sales & Marketing | 0 |Sales & Marketing | 0 |Sales & Marketing |0 |Sales & Marketing |$10K |
 | Total |$1140.2B |Total |$120.01B |Total |$111.013M |Total |**$2.11M**|
 
