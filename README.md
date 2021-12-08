@@ -95,5 +95,7 @@
 - As you might have already noticed the dominant cost is the SEM cost. So there are arguments that if some private company takes initiative to accelerate the SEM development then the 2050 projections may even get fast-forwarded to 2040. The reason is  today apart from uses in semiconductor and neuroscience there aren't many uses of multi-beam SEM. In neuroscience since we are currently dealing with fruitfly/mouse there is no initiative to make multi beam SEM scale up faster as in such case storage/compute will fall behind. So multi-beam SEM is progressing in a way such that the three factors remain close to one another. But to move to humans if we have to keep scanning factor of the same order to storage and compute, then it will have to move lot faster than moores/wrights law. 
 - The R&D cost is estimated as averaging of the total R&D cost divided by total potential customers who can afford that price range(and also wish to opt for it). The total R&D from government and philanthropic foundations in neuroscience in 2020-2050 period is expected to be of the order of $100B. And as the industry matures private sector is expected to invest capital of the order of $10B. We estimate number of potential customers in 2040-2049 is order of 1k and 2050-2059 is order of 100k. So averaging R&D per customer for 2040s comes as $10M and for 2050s as $100K. 
 
-![plot_estimstes](https://user-images.githubusercontent.com/2527354/143514623-84679f84-6194-416a-8dac-706b29e1a0d7.png)
+
+
+![estimate](https://user-images.githubusercontent.com/2527354/145160735-d588e659-37d3-4a41-a9f2-acbe26a60c0b.png)
 
