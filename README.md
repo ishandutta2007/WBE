@@ -11,7 +11,7 @@
                       
 ## Scanning Speed improvement :
 
-- 34 GB/hour in 2018 [Fluitfly detailed connectome to Electrophysiology level by Google+Jnelia Institute in 2019](https://www.youtube.com/watch?v=PeyHKdmBpqY)
+- 34 GB/hour in 2019 [Fluitfly detailed connectome to Electrophysiology level by Google+Jnelia Institute in 2019](https://www.youtube.com/watch?v=PeyHKdmBpqY)
 
 - 300 GB/hour in 2021 (https://www.anl.gov/article/researchers-image-an-entire-mouse-brain-for-the-first-time)
 
