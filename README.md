@@ -54,45 +54,49 @@
 |   |2020 |    |2030 |   | 2040 |  | 2050 
 | ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
 | Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) | $1M |
+| Stitching |$1T |Stitching |$10B |Stitching |$100M |Stitching |$1M |
 | Storage(1ZB)(raw) |$30B |Storage(1EB) (compressed)|$300K |Storage(1EB) (compressed)|$3K |Storage(1EB) (compressed)|$30 |
 | Compute(100 teraflops) |$100M |Compute(100 teraflops) |$1M |Compute(100 teraflops) |$10K |Compute(100 teraflops) |$100 |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
 | Sales & Marketing | 0 |Sales & Marketing | 0 |Sales & Marketing |0 |Sales & Marketing |$10K |
-| Total |$1140.2B |Total |$120.01B |Total |$111.013M |Total |**$2.11M**|
+| Total |$2140.2B |Total |$130.01B |Total |$211.013M |Total |**$3.11M**|
 
 ### SLOWED DOWN MOORES LAW (36 months doubling) WITH IMAGE COMPRESSION
 |   |2020 |    |2030 |   | 2040 |  | 2050 
 | ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
 | Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
+| Stitching |$1T |Stitching |$10B |Stitching |$100M |Stitching |$1M |
 | Storage(1ZB)(raw) |$30B |Storage(1EB) (compressed) |$3M |Storage(1EB) (compressed)| $300K | Storage(1EB) (compressed)|$30K |
 | Compute(100 teraflops) |$100M |Compute(100 teraflops) |$10M |Compute(100 teraflops) |$1M |Compute(100 teraflops) |$100K |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
 | Sales & Marketing | 0 |Sales & Marketing | 0 |Sales & Marketing |0 |Sales & Marketing |$10K |
-| Total |$1140.2B |Total |$120.01B |Total |$112.3M |Total |$2.24M |
+| Total |$2140.2B |Total |$130.01B |Total |$212.3M |Total |$3.24M |
 
 ### ORIGINAL MOORES LAW(18 months doubling)
 |   |2020 |    |2030 |   | 2040 |  | 2050 
 | ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
 | Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
+| Stitching |$1T |Stitching |$10B |Stitching |$100M |Stitching |$1M |
 | Storage(1ZB)(raw) |$30B |Storage(1ZB) |$300M |Storage(1ZB) |$3M |Storage(1ZB) |$30K |
 | Compute(100 teraflops) |$100M |Compute(100 teraflops) |$1M |Compute(100 teraflops) |$10K |Compute(100 teraflops) |$100 |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
 | Sales & Marketing | 0 |Sales & Marketing | 0 |Sales & Marketing |0 |Sales & Marketing |$10K |
-| Total |$1140.2B |Total |$120.31B |Total |$114.3M |Total |$2.14M |
+| Total |$2140.2B |Total |$130.31B |Total |$214.3M |Total |$3.14M |
 
 ### SLOWED DOWN MOORES LAW(36 months doubling)(most pessimistic case)
 |   |2020 |    |2030 |   | 2040 |  | 2050 
 | ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
 | Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
+| Stitching |$1T |Stitching |$10B |Stitching |$100M |Stitching |$19M |
 | Storage(1ZB)(raw) |$30B |Storage(1ZB) |$3B |Storage(1ZB) |$300M |Storage(1ZB) |$30M |
 | Compute(100 teraflops) |$100M |Compute(100 teraflops) |$10M |Compute(100 teraflops) |$1M |Compute(100 teraflops) |$100K |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
 | Sales & Marketing | 0 |Sales & Marketing | 0 |Sales & Marketing |0 |Sales & Marketing |$10K |
-| Total |$1140.2B |Total |$123.02B |Total |$412M |Total |**$32.21M** |
+| Total |$2140.2B |Total |$133.02B |Total |$512M |Total |**$42.21M** |
 
 - Assumptions made here is 10nm isotropic resolution scanning is good enough for copying memory.
 - From the above table we can see by **2040** the unit cost is estimated to be between **$111.01M and $412M**, and by **2050** the unit cost is estimated to be between **$2.11M and $32.21M**. 
