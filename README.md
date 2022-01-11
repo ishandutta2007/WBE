@@ -90,7 +90,7 @@
 |   |2020 |    |2030 |   | 2040 |  | 2050 
 | ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
 | Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
-| Stitching |$1T |Stitching |$10B |Stitching |$100M |Stitching |$19M |
+| Stitching |$1T |Stitching |$10B |Stitching |$100M |Stitching |$10M |
 | Storage(1ZB)(raw) |$30B |Storage(1ZB) |$3B |Storage(1ZB) |$300M |Storage(1ZB) |$30M |
 | Compute(100 teraflops) |$100M |Compute(100 teraflops) |$10M |Compute(100 teraflops) |$1M |Compute(100 teraflops) |$100K |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
