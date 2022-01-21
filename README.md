@@ -19,8 +19,8 @@
 
 - 1 TB/hour in 2021 by Wuhan National Laborator(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf)
 
-- Desired speed for mouse is 1EB in 1k hours or 1PB/hour (ie 1k TB/hr)
-- Desired speed for human is 1ZB in 1k hours or 1EB/hour (ie 1m TB/hr)
+- Desired speed for mouse is 1EB in 1k hours or **1PB/hour** (ie 1k TB/hr)
+- Desired speed for human is 1ZB in 1k hours or **1EB/hour** (ie 1m TB/hr)
 
 ## Connectome(Scanning+Storage):
 
