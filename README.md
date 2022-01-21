@@ -23,7 +23,7 @@
 - Desired speed for mouse is 1EB in 1k hours or **1PB/hour** (ie 1k TB/hr)
 - Desired speed for human is 1ZB in 1k hours or **1EB/hour** (ie 1m TB/hr)
 
-## Connectome(Scanning+Storage):
+## Connectome(Scanning+Image Storage):
 
 | AI       | C. Elegans | FruitFly           | Mouse  | Monkey (rhesus) | Human 
 | ------------- |:----------- |:---------------------------:| -----:|  -----:| ------:|
@@ -58,7 +58,7 @@
 | ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
 | Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) | $1M |
 | Compute for Stitching |$1T |Compute for Stitching |$10B |Compute for Stitching |$100M |Compute for Stitching |$1M |
-| Storage(1ZB)(raw) |$30B |Storage(1EB) (compressed)|$300K |Storage(1EB) (compressed)|$3K |Storage(1EB) (compressed)|$30 |
+| Image Storage(1ZB)(raw) |$30B |Image Storage(1EB) (compressed)|$300K |Image Storage(1EB) (compressed)|$3K |Image Storage(1EB) (compressed)|$30 |
 | Compute for Simulation(100 teraflops) |$100M |Compute for Simulation(100 teraflops) |$1M |Compute for Simulation(100 teraflops) |$10K |Compute for Simulation(100 teraflops) |$100 |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
@@ -70,7 +70,7 @@
 | ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
 | Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
 | Compute for Stitching |$1T |Compute for Stitching |$10B |Compute for Stitching |$100M |Compute for Stitching |$1M |
-| Storage(1ZB)(raw) |$30B |Storage(1EB) (compressed) |$3M |Storage(1EB) (compressed)| $300K | Storage(1EB) (compressed)|$30K |
+| Image Storage(1ZB)(raw) |$30B |Image Storage(1EB) (compressed) |$3M |Image Storage(1EB) (compressed)| $300K | Image Storage(1EB) (compressed)|$30K |
 | Compute for Simulation(100 teraflops) |$100M |Compute for Simulation(100 teraflops) |$10M |Compute for Simulation(100 teraflops) |$1M |Compute for Simulation(100 teraflops) |$100K |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
@@ -82,7 +82,7 @@
 | ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
 | Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
 | Compute for Stitching |$1T |Compute for Stitching |$10B |Compute for Stitching |$100M |Compute for Stitching |$1M |
-| Storage(1ZB)(raw) |$30B |Storage(1ZB) |$300M |Storage(1ZB) |$3M |Storage(1ZB) |$30K |
+| Image Storage(1ZB)(raw) |$30B |Image Storage(1ZB) |$300M |Image Storage(1ZB) |$3M |Image Storage(1ZB) |$30K |
 | Compute for Simulation(100 teraflops) |$100M |Compute for Simulation(100 teraflops) |$1M |Compute for Simulation(100 teraflops) |$10K |Compute for Simulation(100 teraflops) |$100 |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
@@ -94,7 +94,7 @@
 | ------------- |:----------- |:--------------:| -----:| ------------- |:----------- |:--------------:| -----:| 
 | Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
 | Compute for Stitching |$1T |Compute for Stitching |$10B |Compute for Stitching |$100M |Compute for Stitching |$10M |
-| Storage(1ZB)(raw) |$30B |Storage(1ZB) |$3B |Storage(1ZB) |$300M |Storage(1ZB) |$30M |
+| Image Storage(1ZB)(raw) |$30B |Image Storage(1ZB) |$3B |Image Storage(1ZB) |$300M |Image Storage(1ZB) |$30M |
 | Compute for Simulation(100 teraflops) |$100M |Compute for Simulation(100 teraflops) |$10M |Compute for Simulation(100 teraflops) |$1M |Compute for Simulation(100 teraflops) |$100K |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
@@ -104,9 +104,9 @@
 - Assumptions made here is 10nm isotropic resolution scanning is good enough for copying memory.
 - From the above table we can see by **2040** the unit cost is estimated to be between **$111.01M and $412M**, and by **2050** the unit cost is estimated to be between **$2.11M and $32.21M**. 
 - It is also to be noted that SEM improvements may follow Wrights Law in long term instead of Moores Law. This analysis uses original Moores law for SEM in all the above four cases as in recent past SEM improvements have been moving at par with original moores law if not faster. But beyond 2040 if it slows down the 2050 estimates might get pushed to 2060. 
-- As you might have already noticed the dominant cost is the SEM cost. So there are arguments that if some private company takes initiative to accelerate the SEM development then the 2050 projections may happen even sooner. The reason of slow progress in Multibeam SEM is today due to the fact that apart from uses in semiconductor and neuroscience there aren't many uses of multi-beam SEM, and those too are at research level, none at production scale. In neuroscience since we are currently dealing with fruitfly/mouse there is no initiative to make multi beam SEM scale up faster as in such case storage/compute will fall behind. So multi-beam SEM is progressing in a way such that the three factors(storage, compute and scanning) remain close to one another. Secondly as we move higher ion beam milling costs will replace diamond knife slicing costs. But to move to humans if we have to keep scanning cost of the same order as storage or compute, then it will have to move lot faster than moores law. It is very likely that till 10K beams it will grow faster than moores law but beyond 10K beams the development will slow down as we wouln't get much price improvement adding more beams to the same SEM than adding another SEM to the system. However cost will continue to drop if more and more units are manufactured but that cost drop will be incremental more like how solar panel price falls which is called wrights law. 
-- The storage and compute estimates as you can see are insignificant compared to SEM costs despite the fact we are quite conservative. Kurzweil says we will have 30PFLOPs of compute for $1K by 2029. We see no chance of Kurzweil's prediction coming anywhere close to reality. We are 300x-3000x conservative(and hence realistic) to that as we expect 100 PFLOPs for $1M(optimistic)-$10M(conservative) .
-- The R&D costs are primarily for SEM and simulation algorithm. For storage, compute and body we will piggy-back on semiconductor and robotics industry, and hence very few of the R&D costs will go there. The R&D cost per unit is estimated as averaging of the total R&D cost divided by total potential customers who can afford that price range(and also wish to opt for it). The total R&D from government and philanthropic foundations in neuroscience in 2020-2050 period is expected to be of the order of $100B. And as the industry matures private sector is expected to invest capital of the order of $10B solely for R&D. We estimate those $110B capital would be enough to solve both scanning and simulation problems. We estimate number of potential customers in 2040-2049 is order of 1k and in 2050-2059 is order of 100k. So averaging R&D per customer for 2040s resolves as $10M and for 2050s as $100K. 
+- As you might have already noticed the dominant cost is the SEM cost. So there are arguments that if some private company takes initiative to accelerate the SEM development then the 2050 projections may happen even sooner. The reason of slow progress in Multibeam SEM is today due to the fact that apart from uses in semiconductor and neuroscience there aren't many uses of multi-beam SEM, and those too are at research level, none at production scale. In neuroscience since we are currently dealing with fruitfly/mouse there is no initiative to make multi beam SEM scale up faster as in such case Image Storage/compute will fall behind. So multi-beam SEM is progressing in a way such that the three factors(Image Storage, compute and scanning) remain close to one another. Secondly as we move higher ion beam milling costs will replace diamond knife slicing costs. But to move to humans if we have to keep scanning cost of the same order as Image Storage or compute, then it will have to move lot faster than moores law. It is very likely that till 10K beams it will grow faster than moores law but beyond 10K beams the development will slow down as we wouln't get much price improvement adding more beams to the same SEM than adding another SEM to the system. However cost will continue to drop if more and more units are manufactured but that cost drop will be incremental more like how solar panel price falls which is called wrights law. 
+- The Image Storage and compute estimates as you can see are insignificant compared to SEM costs despite the fact we are quite conservative. Kurzweil says we will have 30PFLOPs of compute for $1K by 2029. We see no chance of Kurzweil's prediction coming anywhere close to reality. We are 300x-3000x conservative(and hence realistic) to that as we expect 100 PFLOPs for $1M(optimistic)-$10M(conservative) .
+- The R&D costs are primarily for SEM and simulation algorithm. For Image Storage, compute and body we will piggy-back on semiconductor and robotics industry, and hence very few of the R&D costs will go there. The R&D cost per unit is estimated as averaging of the total R&D cost divided by total potential customers who can afford that price range(and also wish to opt for it). The total R&D from government and philanthropic foundations in neuroscience in 2020-2050 period is expected to be of the order of $100B. And as the industry matures private sector is expected to invest capital of the order of $10B solely for R&D. We estimate those $110B capital would be enough to solve both scanning and simulation problems. We estimate number of potential customers in 2040-2049 is order of 1k and in 2050-2059 is order of 100k. So averaging R&D per customer for 2040s resolves as $10M and for 2050s as $100K. 
 
 
 ![estimate](https://user-images.githubusercontent.com/2527354/145160735-d588e659-37d3-4a41-a9f2-acbe26a60c0b.png)
