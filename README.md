@@ -60,7 +60,7 @@
 | Compute for Stitching |$1T |Compute for Stitching |$10B |Compute for Stitching |$100M |Compute for Stitching |$1M |
 | Image Storage(1ZB)(raw) |$30B |Image Storage(1EB) (compressed)|$300K |Image Storage(1EB) (compressed)|$3K |Image Storage(1EB) (compressed)|$30 |
 | Connectome Storage(1PB) |$30K |Connectome Storage(1PB)|$300 |Connectome Storage(1PB)|$0.3 |Connectome Storage(1PB)|$0.003 |
-| Compute for Simulation(100 teraflops) |$100M |Compute for Simulation(100 teraflops) |$1M |Compute for Simulation(100 teraflops) |$10K |Compute for Simulation(100 teraflops) |$100 |
+| Compute for Simulation(10 Pflops) |$10M |Compute for Simulation(10 Pflops) |$100K |Compute for Simulation(10 Pflops) |$1K |Compute for Simulation(10 Pflops) |$10 |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
 | Sales & Marketing | 0 |Sales & Marketing | 0 |Sales & Marketing |0 |Sales & Marketing |$10K |
@@ -73,7 +73,7 @@
 | Compute for Stitching |$1T |Compute for Stitching |$10B |Compute for Stitching |$100M |Compute for Stitching |$1M |
 | Image Storage(1ZB)(raw) |$30B |Image Storage(1EB) (compressed) |$3M |Image Storage(1EB) (compressed)| $300K | Image Storage(1EB) (compressed)|$30K |
 | Connectome Storage(1PB) |$30K |Connectome Storage(1PB)|$3k |Connectome Storage(1PB)|$300 |Connectome Storage(1PB)|$30 |
-| Compute for Simulation(100 teraflops) |$100M |Compute for Simulation(100 teraflops) |$10M |Compute for Simulation(100 teraflops) |$1M |Compute for Simulation(100 teraflops) |$100K |
+| Compute for Simulation(10 Pflops) |$10M |Compute for Simulation(10 Pflops) |$1M |Compute for Simulation(10 Pflops) |$100K |Compute for Simulation(10 Pflops) |$10K |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
 | Sales & Marketing | 0 |Sales & Marketing | 0 |Sales & Marketing |0 |Sales & Marketing |$10K |
@@ -86,7 +86,7 @@
 | Compute for Stitching |$1T |Compute for Stitching |$10B |Compute for Stitching |$100M |Compute for Stitching |$1M |
 | Image Storage(1ZB)(raw) |$30B |Image Storage(1ZB) |$300M |Image Storage(1ZB) |$3M |Image Storage(1ZB) |$30K |
 | Connectome Storage(1PB) |$30K |Connectome Storage(1PB)|$300 |Connectome Storage(1PB)|$0.3 |Connectome Storage(1PB)|$0.003 |
-| Compute for Simulation(100 teraflops) |$100M |Compute for Simulation(100 teraflops) |$1M |Compute for Simulation(100 teraflops) |$10K |Compute for Simulation(100 teraflops) |$100 |
+| Compute for Simulation(10 Pflops) |$10M |Compute for Simulation(10 Pflops) |$100K |Compute for Simulation(10 Pflops) |$1K |Compute for Simulation(10 Pflops) |$10 |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
 | Sales & Marketing | 0 |Sales & Marketing | 0 |Sales & Marketing |0 |Sales & Marketing |$10K |
@@ -99,7 +99,7 @@
 | Compute for Stitching |$1T |Compute for Stitching |$10B |Compute for Stitching |$100M |Compute for Stitching |$10M |
 | Image Storage(1ZB)(raw) |$30B |Image Storage(1ZB) |$3B |Image Storage(1ZB) |$300M |Image Storage(1ZB) |$30M |
 | Connectome Storage(1PB) |$30K |Connectome Storage(1PB)|$3K |Connectome Storage(1PB)|$300 |Connectome Storage(1PB)|$30 |
-| Compute for Simulation(100 teraflops) |$100M |Compute for Simulation(100 teraflops) |$10M |Compute for Simulation(100 teraflops) |$1M |Compute for Simulation(100 teraflops) |$100K |
+| Compute for Simulation(10 Pflops) |$10M |Compute for Simulation(10 Pflops) |$1M |Compute for Simulation(10 Pflops) |$100K |Compute for Simulation(10 Pflops) |$10K |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
 | Sales & Marketing | 0 |Sales & Marketing | 0 |Sales & Marketing |0 |Sales & Marketing |$10K |
