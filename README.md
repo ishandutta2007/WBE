@@ -17,7 +17,7 @@
 
 - 5 TB/hour in 2021 by CAS(https://english.cas.cn/newsroom/research_news/life/202107/t20210721_276103.shtml)
 
-- 1 TB/hour in 2021 by Wuhan National Laborator(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf)(resolution increase by 7x7x10(=490x) from argon but time required was by 80x more. Net improvement = 490/80 = 6x).
+- 1 TB/hour in 2021 by Wuhan National Laborator(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf) - (resolution increase by 7x7x10(=490x) from argon but time required was by 80x more. Net improvement = 490/80 = 6x).
 
 - Desired speed for mouse is 1EB in 1k hours or **1PB/hour** (ie 1k TB/hr)
 - Desired speed for human is 1ZB in 1k hours or **1EB/hour** (ie 1m TB/hr)
