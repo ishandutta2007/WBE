@@ -72,6 +72,7 @@
 | Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
 | Compute for Stitching |$1T |Compute for Stitching |$10B |Compute for Stitching |$100M |Compute for Stitching |$1M |
 | Image Storage(1ZB)(raw) |$30B |Image Storage(1EB) (compressed) |$3M |Image Storage(1EB) (compressed)| $300K | Image Storage(1EB) (compressed)|$30K |
+| Connectome Storage(1PB) |$30K |Connectome Storage(1PB)|$3k |Connectome Storage(1PB)|$300 |Connectome Storage(1PB)|$30 |
 | Compute for Simulation(100 teraflops) |$100M |Compute for Simulation(100 teraflops) |$10M |Compute for Simulation(100 teraflops) |$1M |Compute for Simulation(100 teraflops) |$100K |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
@@ -84,6 +85,7 @@
 | Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
 | Compute for Stitching |$1T |Compute for Stitching |$10B |Compute for Stitching |$100M |Compute for Stitching |$1M |
 | Image Storage(1ZB)(raw) |$30B |Image Storage(1ZB) |$300M |Image Storage(1ZB) |$3M |Image Storage(1ZB) |$30K |
+| Connectome Storage(1PB) |$30K |Connectome Storage(1PB)|$300 |Connectome Storage(1PB)|$0.3 |Connectome Storage(1PB)|$0.003 |
 | Compute for Simulation(100 teraflops) |$100M |Compute for Simulation(100 teraflops) |$1M |Compute for Simulation(100 teraflops) |$10K |Compute for Simulation(100 teraflops) |$100 |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
@@ -96,6 +98,7 @@
 | Scanning(100 Beam SEM x 1M units) |$1T |Scanning(10K Beam SEM x 10K units) |$10B |Scanning(1M Beam SEM x 100 units) |$100M |Scanning(100M Beam SEM) |$1M |
 | Compute for Stitching |$1T |Compute for Stitching |$10B |Compute for Stitching |$100M |Compute for Stitching |$10M |
 | Image Storage(1ZB)(raw) |$30B |Image Storage(1ZB) |$3B |Image Storage(1ZB) |$300M |Image Storage(1ZB) |$30M |
+| Connectome Storage(1PB) |$30K |Connectome Storage(1PB)|$3K |Connectome Storage(1PB)|$300 |Connectome Storage(1PB)|$30 |
 | Compute for Simulation(100 teraflops) |$100M |Compute for Simulation(100 teraflops) |$10M |Compute for Simulation(100 teraflops) |$1M |Compute for Simulation(100 teraflops) |$100K |
 | Body with 1M nerve endings |$100M |Body with 1M nerve endings |$10M |Body with 1M nerve endings |$1M |Body with 1M nerve endings |$1M |
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
