@@ -22,7 +22,7 @@
 
 - Desired speed for mouse is 1EB in 1k hours or **1PB/hour** (ie 1k TB/hr)
 - Desired speed for human is 1ZB in 1k hours or **1EB/hour** (ie 1m TB/hr)
-- Zeiss upgraded 91 beam EM to 331 beam EM. So I am expecting next upgrade to be [1387 beams and 5419 beams](http://oeis.org/A245489) respectively 
+- Zeiss upgraded 91 beam SEM to 331 beam SEM. So I am expecting next upgrade to be [1387 beams and 5419 beams](http://oeis.org/A245489) respectively 
 
 
 ## Connectome(Scanning+Image Storage):
