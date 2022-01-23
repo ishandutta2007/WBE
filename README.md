@@ -11,17 +11,19 @@
                       
 ## Scanning Speed improvement :
 
-- 234 GB/hour in 2019  - resolution = 8 nm [Fluitfly detailed connectome to Electrophysiology level by Google+Jnelia Institute in 2019](https://www.youtube.com/watch?v=PeyHKdmBpqY)
 
-- 300 GB/hour in July 2021 by Argonne - resolution = 1 micron (https://www.anl.gov/article/researchers-image-an-entire-mouse-brain-for-the-first-time)
-
-- 1 TB/hour in Sept, 2021 by Wuhan National Laborator - resolution = 144 nm (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf) - (resolution increased by 7x7x10(=490x) from argonne but time required was by 80x more. Net improvement = 490/80 = 6x).
-
-- 5 TB/hour in 2021 by CAS - resolution = 1 micron (https://english.cas.cn/newsroom/research_news/life/202107/t20210721_276103.shtml)
+| Speed       | Date | Project | Technique | Resolution|
+| ----------- |:-------|:------- |:------- |:---------:|
+| 234 GB/hour | 2019 | [Fluitfly by Google+Jnelia Institute](https://www.youtube.com/watch?v=PeyHKdmBpqY) | diamond knife + SEM|8 nm|
+| 300 GB/hour | July2021 | [Argonne Photon Mouse](https://www.anl.gov/article/researchers-image-an-entire-mouse-brain-for-the-first-time) |  x-ray microscope|1 micron|
+| 1 TB/hour | Sept2021 | [Wuhan National Lab Mouse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf)  | expansion microscopy + CT (resolution increased by 7x7x10(=490x) from argonne but time required was by 80x more. Net improvement = 490/80 = 6x) | 144 nm |
+| 300 GB/hour | July2021 | [Argonne Photon Mouse](https://www.anl.gov/article/researchers-image-an-entire-mouse-brain-for-the-first-time)  |  x-ray microscope|1 micron|
+| 5 TB/hour | 2021 | [China CAS monkey](https://english.cas.cn/newsroom/research_news/life/202107/t20210721_276103.shtml) | Flurosence microscopy |1 micron|
 
 
 - Desired speed for mouse is 1EB in 1k hours or **1PB/hour** (ie 1k TB/hr)
 - Desired speed for human is 1ZB in 1k hours or **1EB/hour** (ie 1m TB/hr)
+
 
 ## Connectome(Scanning+Image Storage):
 
