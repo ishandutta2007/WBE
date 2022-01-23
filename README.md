@@ -17,7 +17,7 @@
 
 - 1 TB/hour in Sept, 2021 by Wuhan National Laborator - resolution = 144 nm (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf) - (resolution increased by 7x7x10(=490x) from argonne but time required was by 80x more. Net improvement = 490/80 = 6x).
 
-- 5 TB/hour in 2021 by CAS(https://english.cas.cn/newsroom/research_news/life/202107/t20210721_276103.shtml)
+- 5 TB/hour in 2021 by CAS - resolution = 1 micron(https://english.cas.cn/newsroom/research_news/life/202107/t20210721_276103.shtml)
 
 
 - Desired speed for mouse is 1EB in 1k hours or **1PB/hour** (ie 1k TB/hr)
