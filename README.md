@@ -15,7 +15,7 @@
 | Speed       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
 | 234 GB/hour | 2019 | [Fluitfly by Google+Jnelia Institute](https://www.youtube.com/watch?v=PeyHKdmBpqY) | diamond knife + SEM|8 nm|
-| 1.6 GB/hour | 2020 | [China petascale pipeline](https://www.nature.com/articles/s41467-020-18659-3) | diamond knife + TEM|8 nm|
+| 1.6 TB/hour | 2020 | [China petascale pipeline](https://www.nature.com/articles/s41467-020-18659-3) | diamond knife + TEM|8 nm|
 | 300 GB/hour | July2021 | [Argonne’s Advanced Photon Source's Mouse](https://www.anl.gov/article/researchers-image-an-entire-mouse-brain-for-the-first-time) |  x-ray microscope(micro CT)|1 micron|
 | 1 TB/hour | Sept2021 | [Wuhan National Lab's Mouse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf)  | expansion microscopy + light-sheet tomography   (resolution increased by 7x7x10(=490x) from argonne but time required was by 80x more. Net improvement = 490/80 = 6x) | 144 nm |
 | 5 TB/hour | 2021 | [China CAS monkey](https://english.cas.cn/newsroom/research_news/life/202107/t20210721_276103.shtml) | Flurosence microscopy(VISoR2) |1 micron|
