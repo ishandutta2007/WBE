@@ -42,6 +42,7 @@
   - ANSOM Microscope
   - Hard x-ray scanning microscopy with coherent radiation
   - Magnetic soft X-ray microscopy
+  - expansion microscopy + light-sheet microscopy + Bessel beam
 
 
 #### 100nm
