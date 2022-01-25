@@ -60,6 +60,7 @@
 | ----------- |:-------|:------- |:------- |:---------:|
 | 300 GB/hour | July2021 | [Argonne’s Advanced Photon Source (Mouse)](https://www.anl.gov/article/researchers-image-an-entire-mouse-brain-for-the-first-time) |  x-ray microscope(micro CT)|1 micron|
 | 5 TB/hour | 2021 | [China CAS (Monkey)](https://english.cas.cn/newsroom/research_news/life/202107/t20210721_276103.shtml) | Flurosence microscopy(VISoR2) |1 micron|
+| 6 TB/hour | 2017 | [Taiwan (Mouse)](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0461-8) | synchrotron x-ray tomography |1 micron|
 
 
 
