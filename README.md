@@ -9,26 +9,26 @@
   - Diamond Knife cost : 20^3/(1 cm^2 × 25 nm) = 168000 sections. 10K sections before replacing knife.
                       : ie 170 Knifes of $2500 each. Total cost = $2500*170 = $425K
                       
-## Scanning Speed improvement :
+## Scanning Throughput improvement :
 
 ### 10nm
 
-| Speed       | Date | Project | Technique | Resolution|
+| Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
 | 234 GB/hour | 2019 | [Fluitfly by Google+Jnelia Institute](https://www.youtube.com/watch?v=PeyHKdmBpqY) | diamond knife + 91 beam SEM|8 nm|
 | 1.6 TB/hour | 2020 | [China petascale pipeline](https://www.nature.com/articles/s41467-020-18659-3) | diamond knife + TEM|8 nm|
 
 
 
-- Desired speed for mouse is 1EB in 1k hours or **1PB/hour** (ie 1k TB/hr)
-- Desired speed for human is 1ZB in 1k hours or **1EB/hour** (ie 1m TB/hr)
+- Desired throughput for mouse is 1EB in 1k hours or **1PB/hour** (ie 1k TB/hr)
+- Desired throughput for human is 1ZB in 1k hours or **1EB/hour** (ie 1m TB/hr)
 - Zeiss upgraded 91 beam SEM to 331 beam SEM. So I am expecting next upgrade to be [1387 beams and 5419 beams](http://oeis.org/A245489) respectively 
 
 
 
 ### 100nm
 
-| Speed       | Date | Project | Technique | Resolution|
+| Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
 | Many TB/hour | July2020 | [University of Washginton's SEQUIN](https://www.sciencedirect.com/science/article/pii/S0896627320302816)  | ZEISS Airyscan | 144 nm |
 | 1 TB/hour | Sept2021 | [Wuhan National Lab's Mouse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf)  | expansion microscopy + light-sheet tomography   (resolution increased by 7x7x10(=490x) from argonne but time required was by 80x more. Net improvement = 490/80 = 6x) | 144 nm |
@@ -37,7 +37,7 @@
 
 ### 1μm
 
-| Speed       | Date | Project | Technique | Resolution|
+| Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
 | 300 GB/hour | July2021 | [Argonne’s Advanced Photon Source's Mouse](https://www.anl.gov/article/researchers-image-an-entire-mouse-brain-for-the-first-time) |  x-ray microscope(micro CT)|1 micron|
 | 5 TB/hour | 2021 | [China CAS monkey](https://english.cas.cn/newsroom/research_news/life/202107/t20210721_276103.shtml) | Flurosence microscopy(VISoR2) |1 micron|
