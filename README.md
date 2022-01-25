@@ -37,6 +37,9 @@
 - Desired throughput for mouse is 1EB in 1k hours or **1PB/hour** (ie 1k TB/hr)
 - Desired throughput for human is 1ZB in 1k hours or **1EB/hour** (ie 1m TB/hr)
 - Zeiss upgraded 91 beam SEM to 331 beam SEM. So I am expecting next upgrade to be [1387 beams and 5419 beams](http://oeis.org/A245489) respectively 
+- Potential Candidates:
+  - GCIB 10S from Ionoptika mounted on a Zeiss Ultra SEM
+  - ANSOM Microscope
 
 
 #### 100nm
