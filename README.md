@@ -42,7 +42,8 @@
   - ANSOM Microscope
   - Hard x-ray scanning microscopy with coherent radiation
   - Magnetic soft X-ray microscopy
-  - expansion microscopy + light-sheet microscopy + Bessel beam
+  - Expansion microscopy + Light-sheet microscopy + Bessel beam
+  - Expansion microscopy + Lightsheet localization microscopy
 
 
 #### 100nm
@@ -50,9 +51,9 @@
 | Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
 | Many TB/hour | July2020 | [University of Washginton's SEQUIN](https://www.sciencedirect.com/science/article/pii/S0896627320302816)  | ZEISS Airyscan | 144 nm |
-| 1 TB/hour | Sept2021 | [Wuhan National Lab (Mouse)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf)  | expansion microscopy + light-sheet tomography | 144 nm |
-| 8 TB/hour | April2021 | [CMU](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8600979/)  | expansion microscopy + light-sheet microscopy | 60 nm |
-| 10 TB/hour | Dec2021 | [CMU + Columbia University](https://www.biorxiv.org/content/10.1101/2021.12.22.473713v1.full.pdf)  | expansion microscopy + Stimulated Raman scattering (SRS) microscopy | 50 nm |
+| 1 TB/hour | Sept2021 | [Wuhan National Lab (Mouse)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf)  | Expansion microscopy + Light-sheet tomography | 144 nm |
+| 8 TB/hour | April2021 | [CMU](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8600979/)  | Expansion microscopy + Light-sheet microscopy | 60 nm |
+| 10 TB/hour | Dec2021 | [CMU + Columbia University](https://www.biorxiv.org/content/10.1101/2021.12.22.473713v1.full.pdf)  | Expansion microscopy + Stimulated Raman scattering (SRS) microscopy | 50 nm |
 
 
 #### 1μm
