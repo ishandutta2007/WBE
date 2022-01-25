@@ -1,49 +1,7 @@
 # Whole Brain Emulation - Tracking and Forecasting
 ## News
 
-- [1 mouse SNN at $100K in 2015 by University of Manchester's SpiNNaker Project](https://www.youtube.com/watch?v=2e06C-yUwlc)
-
 -  Dates in bold are what has already been achieved and other estimates are from [a paper by Future of Humanity Institute](https://www.fhi.ox.ac.uk/brain-emulation-roadmap-report.pdf)
-
-- Mouse WBE [Cost Estimation](https://www.biorxiv.org/content/10.1101/001214v3.full) as of 2013
-  - Diamond Knife cost : 20^3/(1 cm^2 × 25 nm) = 168000 sections. 10K sections before replacing knife.
-                      : ie 170 Knifes of $2500 each. Total cost = $2500*170 = $425K
-                      
-## Scanning Throughput improvement :
-
-### 10nm
-
-| Throughput       | Date | Project | Technique | Resolution|
-| ----------- |:-------|:------- |:------- |:---------:|
-| 234 GB/hour | 2019 | [Janelia Institute + Google (Fluitfly)](https://www.youtube.com/watch?v=PeyHKdmBpqY) | diamond knife + 91 beam SEM|8 nm|
-| 1.6 TB/hour | 2020 | [Allen Institute petascale pipeline](https://www.nature.com/articles/s41467-020-18659-3) | diamond knife + TEM|8 nm|
-
-
-
-- Desired throughput for mouse is 1EB in 1k hours or **1PB/hour** (ie 1k TB/hr)
-- Desired throughput for human is 1ZB in 1k hours or **1EB/hour** (ie 1m TB/hr)
-- Zeiss upgraded 91 beam SEM to 331 beam SEM. So I am expecting next upgrade to be [1387 beams and 5419 beams](http://oeis.org/A245489) respectively 
-
-
-
-### 100nm
-
-| Throughput       | Date | Project | Technique | Resolution|
-| ----------- |:-------|:------- |:------- |:---------:|
-| Many TB/hour | July2020 | [University of Washginton's SEQUIN](https://www.sciencedirect.com/science/article/pii/S0896627320302816)  | ZEISS Airyscan | 144 nm |
-| 1 TB/hour | Sept2021 | [Wuhan National Lab (Mouse)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf)  | expansion microscopy + light-sheet tomography   (resolution increased by 7x7x10(=490x) from argonne but time required was by 80x more. Net improvement = 490/80 = 6x) | 144 nm |
-
-
-
-### 1μm
-
-| Throughput       | Date | Project | Technique | Resolution|
-| ----------- |:-------|:------- |:------- |:---------:|
-| 300 GB/hour | July2021 | [Argonne’s Advanced Photon Source (Mouse)](https://www.anl.gov/article/researchers-image-an-entire-mouse-brain-for-the-first-time) |  x-ray microscope(micro CT)|1 micron|
-| 5 TB/hour | 2021 | [China CAS (Monkey)](https://english.cas.cn/newsroom/research_news/life/202107/t20210721_276103.shtml) | Flurosence microscopy(VISoR2) |1 micron|
-
-
-
 
 
 ## Connectome(Scanning+Image Storage):
@@ -58,6 +16,48 @@
 | Distribution of complexes |--|--|--|--| --|
 | Stochastic behavior of single molecules |--|--|--|--| --|
 
+### News
+
+- Mouse WBE [Cost Estimation](https://www.biorxiv.org/content/10.1101/001214v3.full) as of 2013
+  - Diamond Knife cost : 20^3/(1 cm^2 × 25 nm) = 168000 sections. 10K sections before replacing knife.
+                      : ie 170 Knifes of $2500 each. Total cost = $2500*170 = $425K
+                      
+
+### Scanning Throughput News:
+
+#### 10nm
+
+| Throughput       | Date | Project | Technique | Resolution|
+| ----------- |:-------|:------- |:------- |:---------:|
+| 234 GB/hour | 2019 | [Janelia Institute + Google (Fluitfly)](https://www.youtube.com/watch?v=PeyHKdmBpqY) | diamond knife + 91 beam SEM|8 nm|
+| 1.6 TB/hour | 2020 | [Allen Institute petascale pipeline](https://www.nature.com/articles/s41467-020-18659-3) | diamond knife + TEM|8 nm|
+
+
+
+- Desired throughput for mouse is 1EB in 1k hours or **1PB/hour** (ie 1k TB/hr)
+- Desired throughput for human is 1ZB in 1k hours or **1EB/hour** (ie 1m TB/hr)
+- Zeiss upgraded 91 beam SEM to 331 beam SEM. So I am expecting next upgrade to be [1387 beams and 5419 beams](http://oeis.org/A245489) respectively 
+
+
+#### 100nm
+
+| Throughput       | Date | Project | Technique | Resolution|
+| ----------- |:-------|:------- |:------- |:---------:|
+| Many TB/hour | July2020 | [University of Washginton's SEQUIN](https://www.sciencedirect.com/science/article/pii/S0896627320302816)  | ZEISS Airyscan | 144 nm |
+| 1 TB/hour | Sept2021 | [Wuhan National Lab (Mouse)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf)  | expansion microscopy + light-sheet tomography   (resolution increased by 7x7x10(=490x) from argonne but time required was by 80x more. Net improvement = 490/80 = 6x) | 144 nm |
+
+
+
+#### 1μm
+
+| Throughput       | Date | Project | Technique | Resolution|
+| ----------- |:-------|:------- |:------- |:---------:|
+| 300 GB/hour | July2021 | [Argonne’s Advanced Photon Source (Mouse)](https://www.anl.gov/article/researchers-image-an-entire-mouse-brain-for-the-first-time) |  x-ray microscope(micro CT)|1 micron|
+| 5 TB/hour | 2021 | [China CAS (Monkey)](https://english.cas.cn/newsroom/research_news/life/202107/t20210721_276103.shtml) | Flurosence microscopy(VISoR2) |1 micron|
+
+
+
+
 ## Simulation(Compute):
 
 
@@ -70,6 +70,11 @@
 | States of protein complexes |--|--|--|--| --| 2052 |
 | Distribution of complexes |--|--|--|--| --| 2063 |
 | Stochastic behavior of single molecules |--|--|--|--| --| 2111 |
+
+### Simulation News
+
+- [1 mouse SNN at $100K in 2015 by University of Manchester's SpiNNaker Project](https://www.youtube.com/watch?v=2e06C-yUwlc)
+
 
 
 ## Unit Economics with Timeline analysis:
