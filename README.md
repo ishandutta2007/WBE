@@ -23,7 +23,7 @@
 
 | Speed       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
-| Many TB/hour | July2020 | [Uni if Whaginton's SEQUIN](https://www.sciencedirect.com/science/article/pii/S0896627320302816)  | ZEISS Airyscan | 144 nm |
+| Many TB/hour | July2020 | [University of Washginton's SEQUIN](https://www.sciencedirect.com/science/article/pii/S0896627320302816)  | ZEISS Airyscan | 144 nm |
 | 1 TB/hour | Sept2021 | [Wuhan National Lab's Mouse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf)  | expansion microscopy + light-sheet tomography   (resolution increased by 7x7x10(=490x) from argonne but time required was by 80x more. Net improvement = 490/80 = 6x) | 144 nm |
 
 
