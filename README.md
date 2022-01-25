@@ -41,6 +41,7 @@
   - GCIB 10S from Ionoptika mounted on a Zeiss Ultra SEM
   - ANSOM Microscope
   - Hard x-ray scanning microscopy with coherent radiation
+  - Magnetic soft X-ray microscopy
 
 
 #### 100nm
