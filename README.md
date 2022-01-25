@@ -15,7 +15,7 @@
 
 | Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
-| 234 GB/hour | 2019 | [Janelia Institute + Google Fluitfly](https://www.youtube.com/watch?v=PeyHKdmBpqY) | diamond knife + 91 beam SEM|8 nm|
+| 234 GB/hour | 2019 | [Janelia Institute + Google (Fluitfly)](https://www.youtube.com/watch?v=PeyHKdmBpqY) | diamond knife + 91 beam SEM|8 nm|
 | 1.6 TB/hour | 2020 | [Allen Institute petascale pipeline](https://www.nature.com/articles/s41467-020-18659-3) | diamond knife + TEM|8 nm|
 
 
@@ -31,7 +31,7 @@
 | Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
 | Many TB/hour | July2020 | [University of Washginton's SEQUIN](https://www.sciencedirect.com/science/article/pii/S0896627320302816)  | ZEISS Airyscan | 144 nm |
-| 1 TB/hour | Sept2021 | [Wuhan National Lab's Mouse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf)  | expansion microscopy + light-sheet tomography   (resolution increased by 7x7x10(=490x) from argonne but time required was by 80x more. Net improvement = 490/80 = 6x) | 144 nm |
+| 1 TB/hour | Sept2021 | [Wuhan National Lab (Mouse)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf)  | expansion microscopy + light-sheet tomography   (resolution increased by 7x7x10(=490x) from argonne but time required was by 80x more. Net improvement = 490/80 = 6x) | 144 nm |
 
 
 
@@ -39,8 +39,8 @@
 
 | Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
-| 300 GB/hour | July2021 | [Argonne’s Advanced Photon Source's Mouse](https://www.anl.gov/article/researchers-image-an-entire-mouse-brain-for-the-first-time) |  x-ray microscope(micro CT)|1 micron|
-| 5 TB/hour | 2021 | [China CAS monkey](https://english.cas.cn/newsroom/research_news/life/202107/t20210721_276103.shtml) | Flurosence microscopy(VISoR2) |1 micron|
+| 300 GB/hour | July2021 | [Argonne’s Advanced Photon Source (Mouse)](https://www.anl.gov/article/researchers-image-an-entire-mouse-brain-for-the-first-time) |  x-ray microscope(micro CT)|1 micron|
+| 5 TB/hour | 2021 | [China CAS (Monkey)](https://english.cas.cn/newsroom/research_news/life/202107/t20210721_276103.shtml) | Flurosence microscopy(VISoR2) |1 micron|
 
 
 
