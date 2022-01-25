@@ -15,8 +15,8 @@
 
 | Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
-| 234 GB/hour | 2019 | [Fluitfly by Google+Jnelia Institute](https://www.youtube.com/watch?v=PeyHKdmBpqY) | diamond knife + 91 beam SEM|8 nm|
-| 1.6 TB/hour | 2020 | [China petascale pipeline](https://www.nature.com/articles/s41467-020-18659-3) | diamond knife + TEM|8 nm|
+| 234 GB/hour | 2019 | [Jnelia Institute + Google Fluitfly](https://www.youtube.com/watch?v=PeyHKdmBpqY) | diamond knife + 91 beam SEM|8 nm|
+| 1.6 TB/hour | 2020 | [Allen Institute petascale pipeline](https://www.nature.com/articles/s41467-020-18659-3) | diamond knife + TEM|8 nm|
 
 
 
