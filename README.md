@@ -44,6 +44,7 @@
   - Magnetic soft X-ray microscopy
   - Expansion microscopy + Light-sheet microscopy + Bessel beam
   - Expansion microscopy + Lightsheet localization microscopy
+  - Expansion microscopy + Mid-infrared spectro-microscopy
 
 
 #### 100nm
