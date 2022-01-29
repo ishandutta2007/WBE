@@ -45,7 +45,7 @@
   - Expansion microscopy + Light-sheet microscopy + Bessel beam
   - Expansion microscopy + Lightsheet localization microscopy
   - Expansion microscopy + Mid-infrared spectro-microscopy
-
+  - Any of the above low resolution imaging (or their conbination) + Deep learning upscaling with models trained on past super resultion EM data
 
 #### 100nm
 
