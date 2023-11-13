@@ -156,13 +156,13 @@
 ![estimate](https://user-images.githubusercontent.com/2527354/145160735-d588e659-37d3-4a41-a9f2-acbe26a60c0b.png)
 
 
-computational mechanisms beyond the chemical synapse.
-·      Glial contributions to neuronal computations
-·      Neurovascular coupling
-·      Morphological plasticity of neurons and glia
-·      NMDA spikes, calcium spikes, other dendritic computations
-·      Arc-mediated intercellular transport of RNAs
-·      Gap junctions
-·      Neuromodulators
-·      Cotransmission of multiple neurotransmitters from same synaptic terminal
-·      Ephatic coupling
+### Computational mechanisms beyond the chemical synapse.
+- Glial contributions to neuronal computations
+- Neurovascular coupling
+- Morphological plasticity of neurons and glia
+- NMDA spikes, calcium spikes, other dendritic computations
+- Arc-mediated intercellular transport of RNAs
+- Gap junctions
+- Neuromodulators
+- Cotransmission of multiple neurotransmitters from same synaptic terminal
+- Ephatic coupling
