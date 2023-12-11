@@ -155,6 +155,8 @@
 
 ![estimate](https://user-images.githubusercontent.com/2527354/145160735-d588e659-37d3-4a41-a9f2-acbe26a60c0b.png)
 
+### Foresight Institute Whole Brain Emulation Workshop 2023 
+- https://www.youtube.com/watch?v=52mMtSiIVZ0&list=PLH78wfbGI1x2CI6aV_hiOE1_GOFkZAFph&pp=iAQB
 
 ### Computational mechanisms beyond the chemical synapse.
 - Glial contributions to neuronal computations
