@@ -59,6 +59,14 @@
 | 10 TB/hour | Dec2021 | [CMU + Columbia University](https://www.biorxiv.org/content/10.1101/2021.12.22.473713v1.full.pdf)  | Expansion microscopy + Stimulated Raman scattering (SRS) microscopy | 50 nm |
 
 
+#### 300nm
+
+| Throughput       | Date | Project | Technique | Resolution|
+| ----------- |:-------|:------- |:------- |:---------:|
+| 5 TB/hour | 2021 | [South East Asia (Human)](https://www.sciencedirect.com/science/article/pii/S0370157322003933) | AXON + MAXWELL microscopy |300 npm|
+
+
+
 #### 1μm
 
 | Throughput       | Date | Project | Technique | Resolution|
