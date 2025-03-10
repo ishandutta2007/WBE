@@ -178,4 +178,4 @@
 - Ephatic coupling
 
 ### 300nm Synchrotron based progress
-- [SYNAPSE – Synchrotron for Neuroscience: an Asia-Pacific ... ](https://synapse-sg.org/-)
+- [SYNAPSE – Synchrotron for Neuroscience: an Asia-Pacific ... ](https://synapse-sg.org)
