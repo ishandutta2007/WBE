@@ -177,5 +177,5 @@
 - Cotransmission of multiple neurotransmitters from same synaptic terminal
 - Ephatic coupling
 
-### 300nm synchrotron basedprogress
+### 300nm Synchrotron based progress
 - [SYNAPSE – Synchrotron for Neuroscience: an Asia-Pacific ... ](https://synapse-sg.org/-)
