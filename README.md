@@ -21,12 +21,12 @@
 
 - Mouse WBE [Cost Estimation](https://www.biorxiv.org/content/10.1101/001214v3.full) as of 2013
   - Diamond Knife cost : 20^3/(1 cm^2 × 25 nm) = 168000 sections. 10K sections before replacing knife.
-                      : ie 170 Knifes of $2500 each. Total cost = $2500*170 = $425K
+                      : ie 170 Knifes of $2500 each. Total cost = `$2500*170 = $425K`
                       
 
 ### Scanning Throughput News:
 
-#### 10nm
+#### sub 10nm
 
 | Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
@@ -49,7 +49,7 @@
   - Expansion microscopy + Mid-infrared spectro-microscopy
   - Any of the above low resolution imaging (or their combination to improve resolution slightly) + Deep learning upscaling with models trained on past super resultion EM data
 
-#### 100nm
+#### sub 100nm
 
 | Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
@@ -61,7 +61,7 @@
 | 10 TB/hour | Dec2021 | [CMU + Columbia University](https://www.biorxiv.org/content/10.1101/2021.12.22.473713v1.full.pdf)  | Expansion microscopy + Stimulated Raman scattering (SRS) microscopy | 50 nm |
 
 
-#### 300nm
+#### sub 300nm
 
 | Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
@@ -69,7 +69,7 @@
 
 
 
-#### 1μm
+#### sub 1μm
 
 | Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
