@@ -9,6 +9,7 @@
 | AI       | C. Elegans | FruitFly           | Mouse  | Monkey (rhesus) | Human 
 | ------------- |:----------- |:---------------------------:| -----:|  -----:| ------:|
 | Neurons(micron scale)|--|--|--| **2021(China)** | -- | 
+| Neurons(micron scale)|--|**2024(FlyWire,US/UK)**|**2025(Allen,US)**|--|**2026(AABC,US)**|
 | Electrophysiology(10 nm scale)|**2008(Janelia,US)**|**2019(Janelia,US)**|--|--| --|
 | Metabolome(1 nm scale) |--|--|--|--| --|
 | Proteome(1A scale) |--|--|--|--| --|
@@ -31,7 +32,8 @@
 | ----------- |:-------|:------- |:------- |:---------:|
 | 234 GB/hour | 2019 | [Janelia Institute + Google (Fluitfly)](https://www.youtube.com/watch?v=PeyHKdmBpqY) | diamond knife + 91 beam SEM|8 nm|
 | 1.6 TB/hour | 2020 | [Allen Institute petascale pipeline](https://www.nature.com/articles/s41467-020-18659-3) | diamond knife + TEM|8 nm|
-
+| 3.0 TB/hour | 2024-2025 | [ZEISS MultiSEM 706](https://www.zeiss.com/microscopy/en/products/sem-and-fib-sem/multisem.html) | 91-beam SEM | 4 nm |
+| >10 TB/hour | 2025 | [PEEM (Laser-powered)](https://www.diamond.ac.uk/Science/Research-Groups/Magnetic-Materials/Imaging-and-Microscopy.html) | Photoemission Electron Microscopy | 1 nm |
 
 
 - Desired throughput for mouse is 1EB in 1k hours or **1PB/hour** (ie 1k TB/hr)
@@ -84,6 +86,7 @@
 | AI       | C. Elegans | FruitFly           | Mouse  | Monkey (rhesus) | Human  | AI(CPU at $1M)
 | ------------- |:----------- |:---------------------------:| -----:|  -----:| ------:|------:|
 | Spiking neural network(Just neurons)|--|--|**2015(Spinnaker,UK)**| -- | **2021(Tesla Dojo)** | 2023 |
+| Spiking neural network(Just neurons)|--|**2026(Eon Systems,US)**|--|--|--|--|
 | Electrophysiology(nano scale)|--|--|--|--| --| 2033 |
 | Metabolome |--|--|--|--| --| 2044 |
 | Proteome |--|--|--|--| --| 2048 |
@@ -94,6 +97,7 @@
 ### Simulation News
 
 - [1 mouse SNN at $100K in 2015 by University of Manchester's SpiNNaker Project](https://www.youtube.com/watch?v=2e06C-yUwlc)
+- [2026: Full digital emulation of adult Fruit Fly brain achieved by Eon Systems](https://www.topaiproduct.com/blog/fruit-fly-brain-emulation)
 
 
 
@@ -152,6 +156,18 @@
 | R&D | $110B |R&D | $110B |R&D |$10M |R&D |$100K |
 | Sales & Marketing | 0 |Sales & Marketing | 0 |Sales & Marketing |0 |Sales & Marketing |$10K |
 | Total |$2140.2B |Total |$133.02B |Total |$512M |Total |**$42.21M** |
+
+### STATE OF BRAIN EMULATION REPORT 2025 FORECAST (Consensus View)
+| Organism | Neuron Count | Estimated Cost | Estimated Timeline | Key Bottleneck |
+| :--- | :--- | :--- | :--- | :--- |
+| **C. elegans** | ~300 | $1M - $5M | **2025** | Functional validation |
+| **Fruit Fly** | ~140K | ~$100M | **2030-2035** | Industrialization |
+| **Mouse** | ~70M | ~$1B | **2040s** | Data Scale |
+| **Human** | ~86B | $10B - $100B | **2050s - 2070s** | Non-destructive scanning |
+
+- Cost of connectomics dropped to ~$100/neuron in 2025 for small organisms.
+- Storage cost for 2025: $31,500 per PB/year (active).
+- AI integration has reduced manual proofreading costs by orders of magnitude (2024-2025).
 
 - Assumptions made here is 10nm isotropic resolution scanning is good enough for copying memory.
 - From the above table we can see by **2040** the unit cost is estimated to be between **$111.01M and $412M**, and by **2050** the unit cost is estimated to be between **$2.11M and $32.21M**. 
