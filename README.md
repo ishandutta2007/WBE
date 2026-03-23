@@ -26,7 +26,7 @@
 
 ### Scanning Throughput News:
 
-#### sub 10nm
+#### ~10nm
 
 | Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
@@ -49,7 +49,7 @@
   - Expansion microscopy + Mid-infrared spectro-microscopy
   - Any of the above low resolution imaging (or their combination to improve resolution slightly) + Deep learning upscaling with models trained on past super resultion EM data
 
-#### sub 100nm
+#### ~100nm
 
 | Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
@@ -61,7 +61,7 @@
 | 10 TB/hour | Dec2021 | [CMU + Columbia University](https://www.biorxiv.org/content/10.1101/2021.12.22.473713v1.full.pdf)  | Expansion microscopy + Stimulated Raman scattering (SRS) microscopy | 50 nm |
 
 
-#### sub 300nm
+#### ~300nm
 
 | Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
@@ -69,7 +69,7 @@
 
 
 
-#### sub 1μm
+#### ~1μm
 
 | Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
