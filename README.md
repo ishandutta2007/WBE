@@ -226,3 +226,5 @@ Gerry Rubin (Janelia Research Campus): Founding director of Janelia, who champio
 Clay Reid (Allen Institute): Project lead for connectomics at the Allen Institute, focusing on large-scale functional and structural mapping.
 - Viren Jain (Google Research): Technical lead for connectomics at Google, pioneering AI-driven, automated segmentation of large EM datasets.
 - Nir Shavit (MIT): Known for developing deep learning tools for next-generation connectomics and "SmartEM," which uses machine learning to guide electron
+- Kenneth J. Haworth (Janelia Research)
+- Robert Mcintyre (MIT) 
