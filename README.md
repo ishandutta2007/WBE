@@ -169,6 +169,19 @@
 - Storage cost for 2025: $31,500 per PB/year (active).
 - AI integration has reduced manual proofreading costs by orders of magnitude (2024-2025).
 
+### Historical Cost of Connectomics per Neuron (Dollars per Neuron)
+
+| Year | Organism / Project | Neurons | Est. Total Cost | **Cost per Neuron** |
+| :--- | :--- | :--- | :--- | :--- |
+| **1986** | *C. elegans* | 302 | ~$5M | **~$16,500** |
+| **2013** | Mouse Retina (Partial) | ~1,000 | ~$1M | **~$1,000** |
+| **2020** | *Drosophila* Hemibrain | 25,000 | ~$50M–$100M | **~$3,000** |
+| **2024** | *Drosophila* Full Brain | 140,000 | ~$30M–$50M | **~$300** |
+| **2024** | Human Cortex Fragment (1 mm³) | 57,000 | ~$15M | **~$262.50** |
+| **2025** | Small Organisms (Target) | -- | -- | **~$100** |
+
+![cost_per_neuron](cost_per_neuron.png)
+
 - Assumptions made here is 10nm isotropic resolution scanning is good enough for copying memory.
 - From the above table we can see by **2040** the unit cost is estimated to be between **$111.01M and $412M**, and by **2050** the unit cost is estimated to be between **$2.11M and $32.21M**. 
 - It is also to be noted that SEM improvements may follow Wrights Law in long term instead of Moores Law. This analysis uses original Moores law for SEM in all the above four cases as in recent past SEM improvements have been moving at par with original moores law if not faster. But beyond 2040 if it slows down the 2050 estimates might get pushed to 2060. 
