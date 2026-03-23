@@ -10,6 +10,7 @@
 | ------------- |:----------- |:---------------------------:| -----:|  -----:| ------:|
 | Neurons(micron scale)|--|--|--| **2021(China)** | -- | 
 | Neurons(micron scale)|--|**2024(FlyWire,US/UK)**|**2025(Allen,US)**|--|**2026(AABC,US)**|
+| Neurons(micron scale)|--|--|**2025(E11 Bio,US)**|--|--|
 | Electrophysiology(10 nm scale)|**2008(Janelia,US)**|**2019(Janelia,US)**|--|--| --|
 | Metabolome(1 nm scale) |--|--|--|--| --|
 | Proteome(1A scale) |--|--|--|--| --|
@@ -59,6 +60,7 @@
 | 1 TB/hour | Sept2021 | [Wuhan National Lab (Mouse)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8515992/pdf/boe-12-9-5614.pdf)  | Expansion microscopy + Light-sheet tomography | 144 nm |
 | 8 TB/hour | April2021 | [CMU](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8600979/)  | Expansion microscopy + Light-sheet microscopy | 60 nm |
 | 10 TB/hour | Dec2021 | [CMU + Columbia University](https://www.biorxiv.org/content/10.1101/2021.12.22.473713v1.full.pdf)  | Expansion microscopy + Stimulated Raman scattering (SRS) microscopy | 50 nm |
+| 100 TB/hour (est.) | 2024-2025 | [E11 Bio](https://e11.bio/) | PRISM (Barcoding + ExM) | 100 nm (EM-equiv) |
 
 
 #### ~300nm
