@@ -210,3 +210,19 @@
 
 ### 300nm Synchrotron based progress
 - [SYNAPSE – Synchrotron for Neuroscience: an Asia-Pacific ... ](https://synapse-sg.org)
+
+
+### Notable Personalities
+
+- Winfried Denk - Max Planck Institute
+- Jeff Lichtman - Harvard 
+- Ed Boyden - MIT
+- Andrew Payne - E11Bio
+- Sebastian Seung (Princeton University): A central figure in connectomics, author of "Connectome: How the Brain's Wiring Makes Us Who We Are." He is a pioneer in using machine learning for neural circuit reconstruction and leads the FlyWire project.
+- Mala Murthy (Princeton University): A leader in fly connectomics, she worked with Seung to produce the first complete brain map of an adult fruit fly, driving understanding of how connectomes function in behaviors.
+- Moritz Helmstaedter (Max Planck Institute): A key researcher in high-accuracy neurite reconstruction and large-scale connectomic screening.
+Gerry Rubin (Janelia Research Campus): Founding director of Janelia, who championed the "big science" approach to mapping the fly brain connectome.
+- Wei-Chung Allen Lee (Harvard Medical School): Known for his work on mapping connections between neurons, specifically in understanding the visual cortex.
+Clay Reid (Allen Institute): Project lead for connectomics at the Allen Institute, focusing on large-scale functional and structural mapping.
+- Viren Jain (Google Research): Technical lead for connectomics at Google, pioneering AI-driven, automated segmentation of large EM datasets.
+- Nir Shavit (MIT): Known for developing deep learning tools for next-generation connectomics and "SmartEM," which uses machine learning to guide electron
