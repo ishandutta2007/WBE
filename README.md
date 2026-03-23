@@ -1,4 +1,4 @@
-# Whole Brain Emulation - Tracking and Forecasting
+# Whole Brain Emulation (aka Substrate Independenet Mind)- Tracking and Forecasting
 ## News
 
 -  Dates in bold are what has already been achieved and other estimates are from [a paper by Future of Humanity Institute](https://www.fhi.ox.ac.uk/brain-emulation-roadmap-report.pdf)
