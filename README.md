@@ -65,7 +65,7 @@
 
 | Throughput       | Date | Project | Technique | Resolution|
 | ----------- |:-------|:------- |:------- |:---------:|
-| 20 TB/hour | 2024 | [South East Asia (Human)](https://www.sciencedirect.com/science/article/pii/S0370157322003933) | AXON + MAXWELL microscopy |300 npm|
+| 20 TB/hour | 2024 | [South East Asia (Human)](https://www.sciencedirect.com/science/article/pii/S0370157322003933) | AXON + MAXWELL microscopy |300 nm|
 
 
 
