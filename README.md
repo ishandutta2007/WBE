@@ -214,17 +214,19 @@
 
 ### Notable Personalities
 
-- Winfried Denk - Max Planck Institute
-- Jeff Lichtman - Harvard 
-- Ed Boyden - MIT
-- Andrew Payne - E11Bio
-- Sebastian Seung (Princeton University): A central figure in connectomics, author of "Connectome: How the Brain's Wiring Makes Us Who We Are." He is a pioneer in using machine learning for neural circuit reconstruction and leads the FlyWire project.
-- Mala Murthy (Princeton University): A leader in fly connectomics, she worked with Seung to produce the first complete brain map of an adult fruit fly, driving understanding of how connectomes function in behaviors.
-- Moritz Helmstaedter (Max Planck Institute): A key researcher in high-accuracy neurite reconstruction and large-scale connectomic screening.
-Gerry Rubin (Janelia Research Campus): Founding director of Janelia, who championed the "big science" approach to mapping the fly brain connectome.
-- Wei-Chung Allen Lee (Harvard Medical School): Known for his work on mapping connections between neurons, specifically in understanding the visual cortex.
-Clay Reid (Allen Institute): Project lead for connectomics at the Allen Institute, focusing on large-scale functional and structural mapping.
-- Viren Jain (Google Research): Technical lead for connectomics at Google, pioneering AI-driven, automated segmentation of large EM datasets.
-- Nir Shavit (MIT): Known for developing deep learning tools for next-generation connectomics and "SmartEM," which uses machine learning to guide electron
-- Kenneth J. Haworth (Janelia Research)
-- Robert Mcintyre (MIT) 
+| Name | Affiliation | Key Contributions / Role |
+| :--- | :--- | :--- |
+| **Winfried Denk** | Max Planck Institute | Pioneer of Serial Block-Face Electron Microscopy (SBFSEM). |
+| **Jeff Lichtman** | Harvard University | Developer of "Brainbow" and automated serial sectioning (ATLUM). |
+| **Ed Boyden** | MIT | Pioneer of Expansion Microscopy (ExM) and Optogenetics. |
+| **Andrew Payne** | E11 Bio | Lead at E11 Bio, focusing on barcoded photo-connectomics (PRISM). |
+| **Sebastian Seung** | Princeton University | Author of "Connectome"; pioneer in ML-based reconstruction and FlyWire. |
+| **Mala Murthy** | Princeton University | Co-lead of FlyWire; leader in adult fruit fly connectomics and behavior. |
+| **Moritz Helmstaedter**| Max Planck Institute | Expert in high-accuracy neurite reconstruction and large-scale screening. |
+| **Gerry Rubin** | Janelia Research Campus | Founding director of Janelia; champion of "big science" fly connectomics. |
+| **Wei-Chung Allen Lee**| Harvard Medical School | Specialist in mapping visual cortex connectivity. |
+| **Clay Reid** | Allen Institute | Lead for Allen Institute connectomics; large-scale functional mapping. |
+| **Viren Jain** | Google Research | Technical lead for AI-driven automated EM segmentation at Google. |
+| **Nir Shavit** | MIT | Developer of "SmartEM" and deep learning tools for connectomics. |
+| **Kenneth J. Hayworth**| Janelia Research | Inventor of the Tape-collecting Lathe Ultramicrotome (ATUM). |
+| **Robert McIntyre** | MIT | Founder of Nectome; researcher in Aldehyde-Stabilized Cryopreservation. |
