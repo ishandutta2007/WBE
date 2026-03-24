@@ -230,3 +230,8 @@
 | **Nir Shavit** | MIT | Developer of "SmartEM" and deep learning tools for connectomics. |
 | **Kenneth J. Hayworth**| Janelia Research | Inventor of the Tape-collecting Lathe Ultramicrotome (ATUM). |
 | **Robert McIntyre** | MIT | Founder of Nectome; researcher in Aldehyde-Stabilized Cryopreservation. |
+Narayanan 'Bobby' Kasthuri
+| **Mu-ming Poo** | University of California, Berkeley |  |
+Narayanan 'Bobby' Kasthuri
+| **Narayanan “Bobby” Kasthuri** | University of Chicago/Argonne National Laboratory |  |
+
