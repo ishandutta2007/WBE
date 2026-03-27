@@ -232,4 +232,4 @@
 | **Robert McIntyre** | MIT | Founder of Nectome; researcher in Aldehyde-Stabilized Cryopreservation. |
 | **Mu-ming Poo** | University of California, Berkeley |  |
 | **Narayanan “Bobby” Kasthuri** | University of Chicago/Argonne National Laboratory |  |
-| **Randal Koene | Carboncopies Foundation |  |
+| **Randal Koene** | Carboncopies Foundation |  |
